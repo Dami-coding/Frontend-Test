@@ -1,0 +1,14 @@
+@import "bower_components/normalize-css/normalize";
+
+body:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.banner {
+  max-width: 100%;
+  height: auto;
+
+}
+
